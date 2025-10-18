@@ -66,11 +66,10 @@ circit diagram:
 
 Open circuit characteristics
 
-
 <img width="1230" height="836" alt="open characteristics" src="https://github.com/user-attachments/assets/37eb5e45-0963-4dfc-9914-5b7a5d856acb" />
 
-  
 Load Characteristics:
+
 <img width="1095" height="870" alt="load characteristics" src="https://github.com/user-attachments/assets/0115ddeb-60fd-46ab-9af1-4290419b3b97" />
  
 Result:
